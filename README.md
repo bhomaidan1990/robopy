@@ -4,6 +4,12 @@
 [![PyPI](https://img.shields.io/pypi/v/robopy.svg)](https://pypi.python.org/pypi/robopy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+## -----------------------------------------------------------------------
+## Checkout the newer port of the RTB toolbox - with more features - below
+## https://github.com/petercorke/robotics-toolbox-python 
+## -----------------------------------------------------------------------
+
+
 A Python 3 implementation of Peter Corke's Robotics Toolbox
 - **Website:** https://adityadua24.github.io/robopy/
 - **Bug reports:** https://github.com/adityadua24/robopy/issues
